@@ -1,8 +1,8 @@
 # Simple C Line Editor
 
 ## Team Members
-Ankita
-vijaya Lakshmi
+M1:Ankita,
+M2:vijaya Lakshmi
 
 ## Data Structure Choice
 * **Dynamic Array of Strings (`char** lines`)** for $O(1)$ fast indexing and efficient line access.
